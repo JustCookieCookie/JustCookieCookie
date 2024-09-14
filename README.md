@@ -30,6 +30,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustCookieCookie&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCookieCookie&layout=compact&theme=dark)
-
-
-![Snake animation](https://raw.githubusercontent.com/{JustCookieCookie}/{JustCookieCookie}/output/github-contribution-grid-snake-dark.svg)
