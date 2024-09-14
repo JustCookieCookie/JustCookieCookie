@@ -30,7 +30,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustCookieCookie&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCookieCookie&layout=compact&theme=dark)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustCookie&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCookieCookie&layout=compact&theme=dark)
