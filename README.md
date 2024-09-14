@@ -25,7 +25,11 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## My statistics
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustCookie&theme=dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustCookieCookie&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCookieCookie&layout=compact&theme=dark)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=JustCookie&theme=dark)
 
