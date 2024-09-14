@@ -30,3 +30,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JustCookieCookie&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustCookieCookie&layout=compact&theme=dark)
+
+
+![snake gif](https://github.com/JustCookieCookie/JustCookieCookie/blob/output/snake.svg)
