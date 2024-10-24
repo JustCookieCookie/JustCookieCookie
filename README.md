@@ -1,8 +1,8 @@
 ### Hi! My name is Daniil!👋
 
 ## I'm a Full-Stack Developer
-- 💪 I like writing code
-- 🏀 I love playing basketball
+- 👨‍💻 I like writing code
+- 💪 I love to play sports
 - 🧠 I like to learn new things
 - 👀 My blog on Telegram t.me/cookie_script
 
